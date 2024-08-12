@@ -29,11 +29,14 @@ figcaption{
   margin-right: auto;
   padding: 2px;
 }
+#details{
+  background-color: red;
+  display: flex;
+  justify-content: space-between;
+}
 
 div{
-  background-color: red;
   color:black;
   width: 100%;
-  
-  display: inline-block;
+  text-align: center;
 }
